@@ -1,19 +1,19 @@
 {
-  "name": "networking",
+  "name": "echo-server",
   "version": "1.0.0",
-  "description": "Learning tcp",
+  "description": "Simple echo server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abeegit/networking.git"
+    "url": "git+https://github.com/abeegit/echo-server.git"
   },
   "author": "Abhijeet Kumar (abhijeetkumar_1992@yahoo.in)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abeegit/networking/issues"
+    "url": "https://github.com/abeegit/echo-server/issues"
   },
-  "homepage": "https://github.com/abeegit/networking#readme"
+  "homepage": "https://github.com/abeegit/echo-server#readme"
 }
